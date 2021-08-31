@@ -32,11 +32,11 @@
 
 
 
-== Publications and Preprints
+== Software
 
 === tensorTS
 - R package (with Zebang Li, Ruofan Yu, Rong Chen, Han Xiao, Dan Yang)
-- Title: Factor and Autoregressive Models for Tensor Time Series
+- Title: Factor and Autoregressive Models for Tensor Time Series. [https://cran.r-project.org/web/packages/tensorTS/tensorTS.pdf Manual]
 
 
 == Talks
