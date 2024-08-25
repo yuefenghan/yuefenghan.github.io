@@ -2,36 +2,75 @@
 
 = Yuefeng Han
 
-== Publications and Preprints
+== Publications (*: contributed equally, \#: students under my supervision)
 
-- Rong Chen, *Yuefeng Han*, Zebang Li, Han Xiao, Dan Yang and Ruofan Yu (2022). Analysis of Tensor Time Series: tensorTS. /Submitted/.
+- [https://arxiv.org/pdf/2110.15517.pdf CP Factor Model for Dynamic Tensors.] \n
+*Yuefeng Han*, Cun-Hui Zhang and Rong Chen. \n
+/Journal of the Royal Statistical Society, Series B (Statistical Methodology)/, in press, 2024.
 
-- *Yuefeng Han*, Cun-Hui Zhang and Rong Chen (2022). [https://arxiv.org/pdf/2110.15517.pdf CP Factor Model for Dynamic Tensors.] Under revision at the /Journal of the Royal Statistical Society, Series B (Statistical Methodology)/.
+- [https://arxiv.org/pdf/2006.02611.pdf Tensor Factor Model Estimation by Iterative Projection.] \n
+*Yuefeng Han*, Rong Chen, Dan Yang and Cun-Hui Zhang. \n
+/The Annals of Statistics/, in press, 2024.
 
-- *Yuefeng Han* and Cun-Hui Zhang (2022). [https://arxiv.org/pdf/2108.04428.pdf Tensor Principal Component Analysis in High Dimensional CP Models.] /IEEE Transactions on Information Theory/, to appear.
+- [https://www.tandfonline.com/doi/full/10.1080/01621459.2022.2151448 Simultaneous Decorrelation of Matrix Time Series.] \n
+*Yuefeng Han*, Rong Chen, Cun-Hui Zhang and Qiwei Yao. \n
+/Journal of American Statistical Association/, 119(546): 957-969, 2024.
 
-- Han Xiao, *Yuefeng Han*, Rong Chen and Chengcheng Liu (2022). [https://yuefenghan.github.io/papers/Reduced_Rank_MAR.pdf Reduced Rank Autoregressive Models for Matrix Time Series.] /Journal of Business & Economic Statistics/, to appear.
+- [https://arxiv.org/pdf/2108.04428.pdf Tensor Principal Component Analysis in High Dimensional CP Models.] \n
+*Yuefeng Han* and Cun-Hui Zhang. \n
+/IEEE Transactions on Information Theory/, 69(2):1147--1167, 2023.
 
-- *Yuefeng Han*, Pinhan Chen and Wei Biao Wu (2022). Interval Forecasts for High-dimensional Time Series. /Preprint/.
+- [https://projecteuclid.org/journals/bernoulli/volume-29/issue-1/High-dimensional-generalized-linear-models-for-temporal-dependent-data/10.3150/21-BEJ1451.short High Dimensional Generalized Linear Models for Temporal Dependent Data.] \n
+*Yuefeng Han*, Ruey S. Tsay and Wei Biao Wu. \n
+/Bernoulli/, 29(1): 105--131, 2023.
 
-- *Yuefeng Han*, Rong Chen, Cun-Hui Zhang and Qiwei Yao (2022). [https://arxiv.org/pdf/2103.09411.pdf Simultaneous Decorrelation of Matrix Time Series.] Under revision at /Journal of American Statistical Association/.
+- [https://yuefenghan.github.io/papers/Reduced_Rank_MAR.pdf Reduced Rank Autoregressive Models for Matrix Time Series.] \n
+Han Xiao, *Yuefeng Han*, Rong Chen and Chengcheng Liu. \n
+/Journal of Business & Economic Statistics/, to appear, 2023.
 
-- *Yuefeng Han*, Rong Chen and Cun-Hui Zhang (2022). [https://arxiv.org/pdf/2011.07131.pdf Rank Determination in Tensor Factor Model.] /Electronic Journal of Statistics/, 16(1): 1726-1803.
+- [https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-16/issue-1/Rank-determination-in-tensor-factor-model/10.1214/22-EJS1991.full Rank Determination in Tensor Factor Model.] \n
+*Yuefeng Han*, Rong Chen and Cun-Hui Zhang. \n
+/Electronic Journal of Statistics/, 16(1): 1726-1803, 2022.
 
-- *Yuefeng Han*, Rong Chen, Dan Yang and Cun-Hui Zhang (2021). [https://yuefenghan.github.io/papers/Tensor_Factor_Model_Estimation_by_Iterative_Projection.pdf Tensor Factor Model Estimation by Iterative Projection.] Under revision at the /Annals of Statistics/.
+- [https://projecteuclid.org/journals/annals-of-statistics/volume-48/issue-6/Test-for-high-dimensional-covariance-matrices/10.1214/20-AOS1943.full Test for High Dimensional Covariance Matrices.] \n
+*Yuefeng Han* and Wei Biao Wu. \n
+/The Annals of Statistics/, 48(6): 3565--3588, 2020.
 
-- *Yuefeng Han*, Ruey S. Tsay and Wei Biao Wu (2021). [https://yuefenghan.github.io/papers/High_Dimensional_Generalized_Linear_Models_for_Time_Dependent_Data.pdf High Dimensional Generalized Linear Models for Temporal Dependent Data.] /Bernoulli/, to appear.
+- [https://www.jstor.org/stable/26969396 High-dimensional Linear Regression for Dependent Data with Applications to Now-casting.] \n
+*Yuefeng Han* and Ruey S. Tsay. \n
+/Statistica Sinica/, 30(4): 1797--1827, 2020.
 
-- *Yuefeng Han*, Likai Chen and Wei Biao Wu (2020). [https://yuefenghan.github.io/papers/High_Dimensional_Nonlinear_Vector_Autoregressive_Models.pdf Sparse Nonlinear Vector Autoregressive Models.] Under revision at /Journal of Machine Learning Research/.
+- [http://www.springer.com/us/book/9783319182834 Hypothesis Testing for High-Dimensional Data.] \n
+Wei Biao Wu, Zhipeng Lou and *Yuefeng Han*. \n
+/Handbook of Big Data Analytics/, Springer, 2018.
 
-- *Yuefeng Han* and Wei Biao Wu (2020). [https://yuefenghan.github.io/papers/Testing_of_Covariance_Matrices.pdf Test for High Dimensional Covariance Matrices.] /Annals of Statistics/, 48(6): 3565--3588.
+- [https://link.springer.com/article/10.1007/s00382-016-3000-3 Evaluation of Dynamically Downscaled Extreme Temperature using a Spatially-aggregated Generalized Extreme Value (GEV) Model.] \n
+Jiali Wang, *Yuefeng Han*, Michael Stein, Veerabhadra R. Kotamarthi and Whitney Huang. \n
+/Climate Dynamics/, 47: 2833-2849, 2016.
 
-- *Yuefeng Han* and Ruey S. Tsay (2020). [http://www3.stat.sinica.edu.tw/statistica/j30n4/j30n406/j30n406.html High-dimensional Linear Regression for Dependent Data with Applications to Now-casting.] /Statistica Sinica/, 30: 1797--1827.
 
-- Wei Biao Wu, Zhipeng Lou and *Yuefeng Han* (2018). [http://www.springer.com/us/book/9783319182834 Hypothesis Testing for High-Dimensional Data.] /Handbook of Big Data Analytics/, Springer.
 
-- Jiali Wang, *Yuefeng Han*, Michael Stein, Veerabhadra R. Kotamarthi and Whitney Huang (2016). [https://link.springer.com/article/10.1007/s00382-016-3000-3 Evaluation of Dynamically Downscaled Extreme Temperature using a Spatially-aggregated Generalized Extreme Value (GEV) Model.] /Climate Dynamics/, 47(9): 2833-2849.
+== Preprints (*: contributed equally, \#: students under my supervision)
 
+- Dynamic Matrix Factor Model for GDELT Data. \n
+Ama Ampadu-Kissi-Owusu, Rong Chen, Kathyrina Dowlin, *Yuefeng Han*, Junyi Li, Zebang Li, Olivia Mao, Han Xiao, Minge Xie, Ruofan Yu and Zheshi Zheng. (alphabetic order) \n
+/Submitted/, 2024.
+
+- [https://arxiv.org/pdf/2407.05624.pdf Dynamic Matrix Factor Models for High Dimensional Time Series.] \n
+Ruofan Yu\*, Rong Chen, Han Xiao and *Yuefeng Han*\*. \n
+/Submitted/, 2024.
+
+- [https://arxiv.org/pdf/2406.17278.pdf Estimation and Inference for CP Tensor Factor Models.] \n
+Bin Chen, *Yuefeng Han* and Qiyang Yu. (alphabetic order) \n
+/Submitted/, 2024.
+
+- [https://arxiv.org/pdf/2405.19610.pdf Factor Augmented Tensor-on-Tensor Neural Networks.] \n
+Guanhao Zhou\#, *Yuefeng Han*, Xiufan Yu. \n
+/Submitted/, 2024.
+
+- Analysis of Tensor Time Series: tensorTS. \n
+Rong Chen, *Yuefeng Han*, Zebang Li, Han Xiao, Dan Yang and Ruofan Yu. (alphabetic order) \n
+/Submitted/, 2023.
 
 
 == Software
@@ -41,15 +80,3 @@
 - Title: Factor and Autoregressive Models for Tensor Time Series. [https://cran.r-project.org/web/packages/tensorTS/tensorTS.pdf Manual]
 
 
-== Talks
-
-- Dynamic tensor factor model based on CP decomposition. \n
-Invited talk at Joint Statistical Meetings (JSM), August 2021
-- High dimensional sparse nonlinear vector autoregressive models. \n
-Invited talk at Joint Statistical Meetings (JSM), August 2020
-- Robust estimation of high dimensional generalized linear models for dynamically dependent data. \n
-Invited talk at Statistics Seminar, University of Illinois at Urbana-Champaign, September 20, 2018
-- High-dimensional linear regression for dependent data with applications to nowcasting. \n
-Invited talk at ICSA Applied Statistics Symposium, Chicago, June 2017
-- High-dimensional linear regression for dependent data with applications to nowcasting. \n
-Poster presentation at 2017 NBER-NSF Time Series Conference, Northwestern University, September, 2017 \n
