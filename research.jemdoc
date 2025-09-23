@@ -4,13 +4,21 @@
 
 == Publications (*: contributed equally, \#: students under my supervision)
 
+- [https://arxiv.org/pdf/2405.19610.pdf Factor Augmented Tensor-on-Tensor Neural Networks.] \n
+Guanhao Zhou\#, *Yuefeng Han* and Xiufan Yu. \n
+/Proceedings of the 39th AAAI Conference on Artificial Intelligence (AAAI 2025)/, 39(21): 22928--22936, 2025.
+
+- [https://arxiv.org/pdf/2410.20439 TEAFormers: TEnsor-Augmented Transformers for Multi-Dimensional Time Series Forecasting.] \n
+Linghang Kong, Elynn Chen, Yuzhou Chen and *Yuefeng Han*. \n
+/The 34th International Joint Conference on Artificial Intelligence (IJCAI 2025)/, AI for Time Series Workshop, 2025.
+
 - [https://arxiv.org/pdf/2110.15517.pdf CP Factor Model for Dynamic Tensors.] \n
 *Yuefeng Han*, Dan Yang, Cun-Hui Zhang and Rong Chen. \n
-/Journal of the Royal Statistical Society, Series B (Statistical Methodology)/, in press, 2024.
+/Journal of the Royal Statistical Society, Series B (Statistical Methodology)/, 86(5): 1383--1413, 2024.
 
 - [https://arxiv.org/pdf/2006.02611.pdf Tensor Factor Model Estimation by Iterative Projection.] \n
 *Yuefeng Han*, Rong Chen, Dan Yang and Cun-Hui Zhang. \n
-/The Annals of Statistics/, in press, 2024.
+/The Annals of Statistics/, 52(6): 2641--2667, 2024.
 
 - [https://www.tandfonline.com/doi/full/10.1080/01621459.2022.2151448 Simultaneous Decorrelation of Matrix Time Series.] \n
 *Yuefeng Han*, Rong Chen, Cun-Hui Zhang and Qiwei Yao. \n
@@ -26,7 +34,7 @@
 
 - [https://yuefenghan.github.io/papers/Reduced_Rank_MAR.pdf Reduced Rank Autoregressive Models for Matrix Time Series.] \n
 Han Xiao, *Yuefeng Han*, Rong Chen and Chengcheng Liu. \n
-/Journal of Business & Economic Statistics/, to appear, 2023.
+/Journal of Business & Economic Statistics/, 2023.
 
 - [https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-16/issue-1/Rank-determination-in-tensor-factor-model/10.1214/22-EJS1991.full Rank Determination in Tensor Factor Model.] \n
 *Yuefeng Han*, Rong Chen and Cun-Hui Zhang. \n
@@ -52,7 +60,43 @@ Jiali Wang, *Yuefeng Han*, Michael Stein, Veerabhadra R. Kotamarthi and Whitney 
 
 == Preprints (*: contributed equally, \#: students under my supervision)
 
-- Dynamic Matrix Factor Model for GDELT Data. \n
+- [https://arxiv.org/pdf/2509.05678 WISE: A Weighted Similarity Aggregation Test for Serial Independence.] \n
+Qihua Zhu, Mingshuo Liu, *Yuefeng Han* and Doudou Zhou. \n
+/Submitted/, 2025.
+
+- Guaranteed Noisy CP Tensor Recovery via Riemannian Optimization on the Segre Manifold. \n
+Ke Xu\# and *Yuefeng Han* \n
+/Submitted/, 2025.
+
+- [https://arxiv.org/pdf/2508.06548 Factor Augmented Supervised Learning with Text Embeddings.] \n
+Zhanye Luo\#, *Yuefeng Han* and Xiufan Yu. \n
+/Submitted/, 2025.
+
+- [https://arxiv.org/pdf/2508.03546 Supervised Dynamic Dimension Reduction with Deep Neural Network.] \n
+Zhanye Luo\#, *Yuefeng Han* and Xiufan Yu. \n
+/Submitted/, 2025.
+
+- [https://arxiv.org/pdf/2505.20536 Covariate Adjusted Deep Causal Learning for Heterogeneous Panel Data Models.] \n
+Guanhao Zhou\#, *Yuefeng Han* and Xiufan Yu. \n
+/Submitted/, 2025.
+
+- [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5202316 Diffusion Index Forecast with Tensor Data.] \n
+Bin Chen, *Yuefeng Han* and Qiyang Yu. (alphabetic order) \n
+/Submitted/, 2025.
+
+- [https://arxiv.org/pdf/2501.16223 Statistical inference for low-rank tensor models.] \n
+Ke Xu\#, Elynn Chen and *Yuefeng Han* \n
+/Submitted/, 2025.
+
+- [https://arxiv.org/pdf/2409.14397 High-dimensional tensor classification with CP low-rank discriminant structure.] \n
+Elynn Chen, *Yuefeng Han* and Jiayu Li (alphabetic order) \n
+/Submitted/, 2024.
+
+- [https://arxiv.org/pdf/2410.14783 High-dimensional tensor discriminant analysis with incomplete tensors.] \n
+Elynn Chen, *Yuefeng Han* and Jiayu Li (alphabetic order) \n
+/Submitted/, 2024.
+
+- [https://yuefenghan.github.io/papers/Dynamic_Matrix_Factor_Model_paper_Draft.pdf Dynamic Matrix Factor Model for GDELT Data.] \n
 Ama Ampadu-Kissi-Owusu, Rong Chen, Kathyrina Dowlin, *Yuefeng Han*, Junyi Li, Zebang Li, Olivia Mao, Han Xiao, Minge Xie, Ruofan Yu and Zheshi Zheng. (alphabetic order) \n
 /Submitted/, 2024.
 
@@ -64,11 +108,11 @@ Ruofan Yu\*, Rong Chen, Han Xiao and *Yuefeng Han*\*. \n
 Bin Chen, *Yuefeng Han* and Qiyang Yu. (alphabetic order) \n
 /Submitted/, 2024.
 
-- [https://arxiv.org/pdf/2405.19610.pdf Factor Augmented Tensor-on-Tensor Neural Networks.] \n
-Guanhao Zhou\#, *Yuefeng Han*, Xiufan Yu. \n
+- Estimation of High-dimensional Nonlinear Vector Autoregressive Models. \n
+*Yuefeng Han*, Likai Chen and Wei Biao Wu. \n
 /Submitted/, 2024.
 
-- Analysis of Tensor Time Series: tensorTS. \n
+- [https://yuefenghan.github.io/papers/R_software_paper_tensorTS.pdf Analysis of Tensor Time Series: tensorTS.] \n
 Rong Chen, *Yuefeng Han*, Zebang Li, Han Xiao, Dan Yang and Ruofan Yu. (alphabetic order) \n
 /Submitted/, 2023.
 
