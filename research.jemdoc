@@ -127,4 +127,7 @@ Rong Chen, *Yuefeng Han*, Zebang Li, Han Xiao, Dan Yang and Ruofan Yu. (alphabet
 - R package (with Zebang Li, Ruofan Yu, Rong Chen, Han Xiao, Dan Yang)
 - Title: Factor and Autoregressive Models for Tensor Time Series. [https://cran.r-project.org/web/packages/tensorTS/tensorTS.pdf Manual]
 
+=== SimIndep
+- R package (with Qihua Zhu, Mingshuo Liu, Doudou Zhou)
+- Title: WISE: a Weighted Similarity Aggregation Test for Serial Independence.
 
