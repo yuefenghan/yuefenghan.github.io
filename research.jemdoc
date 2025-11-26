@@ -4,9 +4,9 @@
 
 == Publications (*: contributed equally, \#: students under my supervision)
 
-- [https://yuefenghan.github.io/papers/Nonlinear_VAR.pdf Estimation of High-dimensional Nonlinear Vector Autoregressive Models.] \n
+- [https://arxiv.org/pdf/2511.18641 Estimation of High-dimensional Nonlinear Vector Autoregressive Models.] \n
 *Yuefeng Han*, Likai Chen and Wei Biao Wu. \n
-/IEEE Transactions on Information Theory/, 2025+.
+/IEEE Transactions on Information Theory/, in press, 2025+.
 
 - [https://arxiv.org/pdf/2508.03546 Supervised Dynamic Dimension Reduction with Deep Neural Network.] \n
 Zhanye Luo\#, *Yuefeng Han* and Xiufan Yu. \n
@@ -14,7 +14,7 @@ Zhanye Luo\#, *Yuefeng Han* and Xiufan Yu. \n
 
 - Discussion of ``Matrix Completion When Missing Is Not at Random and Its Applications in Causal Panel Data Models''. \n
 Guanhao Zhou\#, *Yuefeng Han* and Xiufan Yu. \n
-/Journal of American Statistical Association/, 2025+.
+/Journal of American Statistical Association/, accepted, 2025+.
 
 - [https://arxiv.org/pdf/2405.19610.pdf Factor Augmented Tensor-on-Tensor Neural Networks.] \n
 Guanhao Zhou\#, *Yuefeng Han* and Xiufan Yu. \n
@@ -72,12 +72,16 @@ Jiali Wang, *Yuefeng Han*, Michael Stein, Veerabhadra R. Kotamarthi and Whitney 
 
 == Preprints (*: contributed equally, \#: students under my supervision)
 
+- [https://arxiv.org/pdf/2511.19796 Threshold Tensor Factor Model in CP Form.] \n
+Stevenson Bolivar, Rong Chen, and *Yuefeng Han*. \n
+/Submitted/, 2025.
+
 - [https://arxiv.org/pdf/2509.05678 WISE: A Weighted Similarity Aggregation Test for Serial Independence.] \n
 Qihua Zhu, Mingshuo Liu, *Yuefeng Han* and Doudou Zhou. \n
 /Submitted/, 2025.
 
 - [https://arxiv.org/pdf/2510.00569 Guaranteed Noisy CP Tensor Recovery via Riemannian Optimization on the Segre Manifold.] \n
-Ke Xu\# and *Yuefeng Han* \n
+Ke Xu\# and *Yuefeng Han*. \n
 /Submitted/, 2025.
 
 - [https://arxiv.org/pdf/2508.06548 Factor Augmented Supervised Learning with Text Embeddings.] \n
@@ -93,15 +97,15 @@ Bin Chen, *Yuefeng Han* and Qiyang Yu. (alphabetic order) \n
 /Submitted/, 2025.
 
 - [https://arxiv.org/pdf/2501.16223 Statistical Inference for Low-rank Tensor Models.] \n
-Ke Xu\#, Elynn Chen and *Yuefeng Han* \n
+Ke Xu\#, Elynn Chen and *Yuefeng Han*. \n
 /Submitted/, 2025.
 
 - [https://arxiv.org/pdf/2409.14397 High-dimensional Tensor Classification with CP Low-rank Discriminant Structure.] \n
-Elynn Chen, *Yuefeng Han* and Jiayu Li (alphabetic order) \n
+Elynn Chen, *Yuefeng Han* and Jiayu Li. (alphabetic order) \n
 /Submitted/, 2024.
 
 - [https://arxiv.org/pdf/2410.14783 High-dimensional Tensor Discriminant Analysis with Incomplete Tensors.] \n
-Elynn Chen, *Yuefeng Han* and Jiayu Li (alphabetic order) \n
+Elynn Chen, *Yuefeng Han* and Jiayu Li. (alphabetic order) \n
 /Submitted/, 2024.
 
 - [https://yuefenghan.github.io/papers/Dynamic_Matrix_Factor_Model_paper_Draft.pdf Dynamic Matrix Factor Model for GDELT Data.] \n
